@@ -8,7 +8,7 @@ Ty
 群1077223830
 *******************************
 [rewrite_local]
-^http[s]?:\/\/files.yuchenglw.com\/Index\/index?t=*.+$ url script-response-body .js
+^http[s]?:\/\/files.yuchenglw.com\/Index\/index?t=*.+$ url script-response-body https://raw.githubusercontent.com/Mi3sbbbi/Mi3sbbbi/main/Bb3
 [mitm] 
 hostname = *..*
 *******************************
